@@ -11,7 +11,9 @@
 
 
 - ✍ I'm a student of: [An Giang University](https://www.facebook.com/AGUDHAG) (AGU).
-
+- ✍ I'm a student of: Class DH20TH2.
+- ✍ My major is: Information technology.
+- ✍ My birthday: 20/06/2001.
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
